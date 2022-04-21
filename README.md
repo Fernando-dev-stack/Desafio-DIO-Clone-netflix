@@ -1,2 +1,2 @@
-# Desafio-DIO-Clone-netflix
+# Desafio DIO Clone da netflix
 Desafio para o clone da netflix
